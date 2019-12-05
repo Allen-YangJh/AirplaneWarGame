@@ -11,7 +11,7 @@
     - 直到所有生命减完，游戏结束。  
 
 <div align="center">
-    <img src="main.png" width="50%">
+    <img src="main.png" width="25%">
 </div>
 
 ### 二、游戏过程
