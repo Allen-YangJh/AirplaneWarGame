@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AirplaneWar",
+            "request": "launch",
+            "mainClass": "app.AirplaneWar",
+            "projectName": "AirplaneWarGame"
+        }
+    ]
+}
